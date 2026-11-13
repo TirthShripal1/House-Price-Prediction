@@ -1,0 +1,2 @@
+Repository generated as a complete educational project. The included housing CSV is synthetic demonstration data, not real property-market data.
+Pre-trained demonstration model included in models/.
