@@ -1,0 +1,13 @@
+feature,importance
+numeric__area_sqft,0.6353818517981359
+categorical__location_rural,0.11843016656413666
+categorical__condition_needs_renovation,0.06562997947488565
+categorical__location_urban,0.06121223857239197
+categorical__condition_excellent,0.05772552762133684
+categorical__location_suburban,0.018644913148354633
+numeric__bedrooms,0.014900125088370294
+categorical__condition_average,0.00684269148891698
+categorical__condition_good,0.006500620834861245
+numeric__bathrooms,0.00524422415717255
+numeric__parking,0.005148427642237868
+numeric__stories,0.004339233609199517
