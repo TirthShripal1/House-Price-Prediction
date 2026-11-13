@@ -1,0 +1,13 @@
+# Notebook workflow
+
+Use this file as a guide when documenting the project in a Jupyter notebook.
+
+1. Import pandas, NumPy, Matplotlib and Seaborn.
+2. Load `../data/raw/house_prices.csv`.
+3. Inspect `head()`, `info()`, `describe()` and missing values.
+4. Visualise price distribution and relationships between area, rooms and price.
+5. Separate features from the target (`price`).
+6. Split the dataset into training and testing sets.
+7. Build the preprocessing and Random Forest pipeline from `src/preprocessing.py`.
+8. Evaluate with MAE, RMSE and R².
+9. Explain limitations and the need for real, representative data.
